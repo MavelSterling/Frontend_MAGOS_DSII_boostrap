@@ -1,0 +1,7 @@
+{
+    "unused": true,
+    "strict": true,
+    "indent": 2,
+    "maxparams": 3,
+    "curly": true
+}

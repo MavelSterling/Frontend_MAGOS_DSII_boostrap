@@ -5,13 +5,6 @@
  * GITHUB: https://github.com/themefisher/
  */
 
-@-webkit-keyframes preloader {
-  25% {
-    height: 30px;
-    transform: translateY(15px);
-    background: #FED136;
-  }
-}
 @keyframes preloader {
   25% {
     height: 30px;
